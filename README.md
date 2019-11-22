@@ -1,2 +1,0 @@
-# PAM-AsycTask
-Asynchronus Task 
